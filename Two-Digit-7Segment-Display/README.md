@@ -40,7 +40,7 @@ These digits are mapped to their corresponding 7-segment patterns and displayed 
 Displays a two-digit countdown using two 7-segment displays.
 
 ## Demo Video
-https://youtu.be/Kaoe5pLqpew
+https://youtu.be/Kaoe5pLqpew  // the video linked is common anode 7 segment display, for a common cathode just ground instead of connecting with power
 
 ## Author
 Priyaharini
