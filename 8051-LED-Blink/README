@@ -1,0 +1,16 @@
+# LED Blink
+
+## Description
+Simple LED blinking program using the AT89C51 (8051) microcontroller.
+
+## Components Used
+- AT89C51
+- LED
+- Resistor
+
+## Software
+- Keil uVision
+- Proteus
+
+## Author
+Priyaharini
