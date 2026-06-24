@@ -6,7 +6,7 @@ Implemented a two-digit 7-segment display using the AT89C51 (8051) microcontroll
 ## Components Used
 - AT89C51
 - Two Common Cathode 7-Segment Displays
-- Resistors
+
 
 ## Software
 - Keil uVision
